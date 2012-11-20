@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MannaApp</string>
+
+    <string name="name">Name</string>
+    <string name="year">Year</string>
+    <string name="go">GO</string>
+    <string name="anonymous">Anonymous</string>
+</resources>

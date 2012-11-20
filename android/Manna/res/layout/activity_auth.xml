@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:background="@color/orange"
+                android:padding="8dp"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+            >
+    <TextView
+            android:id="@+id/auth_welcome"
+            style="@style/text.14"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:layout_centerHorizontal="true"
+            android:textColor="#000000"
+            android:text="Welcome to the Manna App!"
+            />
+    <TextView
+            android:id="@+id/auth_name"
+            android:layout_below="@id/auth_welcome"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="@string/name"
+            />
+    <EditText
+            android:id="@+id/auth_name_entry"
+            android:layout_below="@id/auth_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Your name here"
+            />
+    <TextView
+            android:id="@+id/auth_year"
+            android:layout_below="@id/auth_name_entry"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="@string/year"
+            />
+    <EditText
+            android:id="@+id/auth_year_entry"
+            android:layout_below="@id/auth_year"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Class of ?"
+            />
+    <TextView
+            android:id="@+id/auth_email"
+            android:layout_below="@id/auth_year_entry"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="Email"
+            />
+    <EditText
+            android:id="@+id/auth_email_entry"
+            android:layout_below="@id/auth_email"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter email address here"
+            />
+    <Button
+            android:id="@+id/auth_btn_go"
+            android:layout_below="@id/auth_email_entry"
+            android:minWidth="100dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/go"
+            />
+    <Button
+            android:id="@+id/auth_btn_anon"
+            android:layout_below="@id/auth_btn_go"
+            android:minWidth="100dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Go as Anonymous"
+            />
+</RelativeLayout>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:gravity="center"
+              android:background="@color/orange"
+              android:padding="8dp"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+
+    <Button android:id="@+id/prayers_add"
+            android:text="Add New Prayer"
+            android:layout_gravity="top"
+            android:layout_weight="0"
+            style="@style/text" />
+
+    <ScrollView
+            android:id="@+id/scrollview"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:layout_width="fill_parent"
+            android:fillViewport="true">
+
+        <LinearLayout
+                android:id="@+id/linear_layout"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:orientation="vertical" />
+
+    </ScrollView>
+
+</LinearLayout>
