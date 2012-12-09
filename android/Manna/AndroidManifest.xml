@@ -21,5 +21,7 @@
         </activity>
         <activity android:name=".activity.SettingsActivity">
         </activity>
+        <activity android:name=".activity.PrayerViewActivity">
+        </activity>
     </application>
 </manifest>

@@ -26,56 +26,66 @@
     <list default="true" id="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" name="Default" comment="" />
     <ignored path="MannaApp.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy4740539169497772449tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351483706464" ignored="false" />
-    <file path="/activity_home.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482786067" ignored="false" />
-    <file path="/AuthActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482690929" ignored="false" />
-    <file path="/SharedPrefsHelper.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482572825" ignored="false" />
-    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy8707307267977128057tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482445512" ignored="false" />
-    <file path="/fragment.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482438126" ignored="false" />
-    <file path="/themes.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482379045" ignored="false" />
-    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy7581161889914165764tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482092434" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/utility/ActivityStarter.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351481121924" ignored="false" />
-    <file path="/ActivityStarter.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351481119949" ignored="false" />
-    <file path="$PROJECT_DIR$/gen/com/manna/MannaApp/BuildConfig.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351480987801" ignored="false" />
-    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy8937159281919712229tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351480404171" ignored="false" />
-    <file path="/styles.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351480343432" ignored="false" />
-    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy2680376734972731952tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351480135584" ignored="false" />
-    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy1217369255295427631tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479979357" ignored="false" />
-    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy5848743937255720029tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479944923" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.actionbarsherlock_actionbarsherlock_4.2.0/src/com/actionbarsherlock/app/SherlockActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.actionbarsherlock_actionbarsherlock_4.2.0/src/com/actionbarsherlock/ActionBarSherlock.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/Util.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/FbDialog.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/FacebookError.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/Facebook.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/DialogError.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/AsyncFacebookRunner.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/res/layout/activity_tweet.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/activity/HomepageActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/activity/TweetActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/pom.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/connection/XmppHelper.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/activity/TemplateActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/activity/RoboSherlockMapActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
-    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/res/values-v14/themes.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479586304" ignored="false" />
-    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy6834546959543257415tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479203766" ignored="false" />
-    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy537190643372551712tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479073450" ignored="false" />
-    <file path="/strings.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479056506" ignored="false" />
-    <file path="/settings_dialog.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351931367770" ignored="false" />
-    <file path="/SettingsActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351932609346" ignored="false" />
-    <file path="/activity_settings.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351933155917" ignored="false" />
-    <file path="/white_gray.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351933509088" ignored="false" />
-    <file path="/colors.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351933797590" ignored="false" />
-    <file path="$APPLICATION_HOME_DIR$/plugins/android/lib/android.jar!/org/jetbrains/android/android.xsd" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353447233498" ignored="false" />
-    <file path="/Prayer.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353447365726" ignored="false" />
-    <file path="/Dummy.txt" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353447881932" ignored="false" />
-    <file path="/HomeActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353448284446" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353448304911" ignored="false" />
+    <file path="/PrayersActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353613394108" ignored="false" />
+    <file path="/PrayerAdapter.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353559862949" ignored="false" />
+    <file path="/Dummy.txt" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1354995699481" ignored="false" />
+    <file path="/item_prayer.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1355000524156" ignored="false" />
     <file path="/activity_prayers.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353448869284" ignored="false" />
-    <file path="/PrayersActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353449315030" ignored="false" />
-    <file path="/item_prayer.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353449381401" ignored="false" />
+    <file path="/HomeActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353448284446" ignored="false" />
+    <file path="/Prayer.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353447365726" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/android/lib/android.jar!/org/jetbrains/android/android.xsd" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1354993378630" ignored="false" />
+    <file path="/colors.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1354996458285" ignored="false" />
+    <file path="/white_gray.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351933509088" ignored="false" />
+    <file path="/activity_settings.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351933155917" ignored="false" />
+    <file path="/SettingsActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351932609346" ignored="false" />
+    <file path="/settings_dialog.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351931367770" ignored="false" />
+    <file path="/strings.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1354997240846" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy537190643372551712tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479073450" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy6834546959543257415tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479203766" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/res/values-v14/themes.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479586304" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/activity/RoboSherlockMapActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/activity/TemplateActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/connection/XmppHelper.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/pom.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/activity/TweetActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/activity/HomepageActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/res/layout/activity_tweet.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479616853" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/AsyncFacebookRunner.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/DialogError.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/Facebook.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/FacebookError.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/FbDialog.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.facebook.android_android-sdk_1.0.0/src/com/facebook/android/Util.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.actionbarsherlock_actionbarsherlock_4.2.0/src/com/actionbarsherlock/ActionBarSherlock.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/gen-external-apklibs/com.actionbarsherlock_actionbarsherlock_4.2.0/src/com/actionbarsherlock/app/SherlockActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479634991" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy5848743937255720029tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479944923" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy1217369255295427631tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351479979357" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy2680376734972731952tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351480135584" ignored="false" />
+    <file path="/styles.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351480343432" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy8937159281919712229tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351480404171" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/manna/MannaApp/BuildConfig.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351480987801" ignored="false" />
+    <file path="/ActivityStarter.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351481119949" ignored="false" />
+    <file path="$PROJECT_DIR$/../../Sonar/android/sonar/src/me/sonar/android/utility/ActivityStarter.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351481121924" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy7581161889914165764tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482092434" ignored="false" />
+    <file path="/themes.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482379045" ignored="false" />
+    <file path="/fragment.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482438126" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy8707307267977128057tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482445512" ignored="false" />
+    <file path="/SharedPrefsHelper.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482572825" ignored="false" />
+    <file path="/AuthActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482690929" ignored="false" />
+    <file path="/activity_home.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351482786067" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy4740539169497772449tmp/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1351483706464" ignored="false" />
+    <file path="/activity_prayerview.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353451019983" ignored="false" />
+    <file path="/item_prayerview.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1354996842749" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353451724981" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/manna/MannaApp/R.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353451726569" ignored="false" />
+    <file path="/PrayerViewActivity.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1353459745504" ignored="false" />
+    <file path="/ListAdapter.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1355001554784" ignored="false" />
+    <file path="/temp.xml" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1354997136969" ignored="false" />
+    <file path="/ListItem.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1355002182825" ignored="false" />
+    <file path="/ListItemType.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1355002133063" ignored="false" />
+    <file path="/PrayerItem.java" changelist="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" time="1355003483405" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,8 +100,8 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -136,49 +146,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HomeActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/activity/HomeActivity.java">
+      <file leaf-file-name="activity_prayers.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_prayers.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.12">
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <file leaf-file-name="activity_prayerview.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_prayerview.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="57" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_prayer.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/item_prayer.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="30" selection-start="2041" selection-end="2045" vertical-scroll-proportion="-1.56">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_prayerview.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/item_prayerview.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="34" selection-start="1780" selection-end="1780" vertical-scroll-proportion="-4.96">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="PrayersActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/activity/PrayersActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="69" selection-start="1747" selection-end="1747" vertical-scroll-proportion="0.0">
+            <state line="37" column="29" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#1014#1723#0" expanded="true" />
+                <element signature="e#1712#1713#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/adapter/ListAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="8" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListItem.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/list/ListItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="32" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SettingsActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/activity/SettingsActivity.java">
+      <file leaf-file-name="PrayerItem.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/list/PrayerItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="18" column="37" selection-start="416" selection-end="416" vertical-scroll-proportion="0.77272725">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="item_prayer.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/layout/item_prayer.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="ListItemType.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/list/ListItemType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="54" selection-start="167" selection-end="167" vertical-scroll-proportion="0.103658535">
+            <state line="3" column="11" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -187,52 +249,7 @@
       <file leaf-file-name="Prayer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/model/Prayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_prayers.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_prayers.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_home.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_home.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="40" selection-end="381" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_settings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_settings.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="52" selection-start="788" selection-end="798" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="30" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+            <state line="2" column="13" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -248,30 +265,49 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/com/manna/MannaApp/activity/AuthActivity.java" />
-        <option value="$PROJECT_DIR$/res/layout/activity_home.xml" />
-        <option value="$PROJECT_DIR$/res/layout/activity_auth.xml" />
-        <option value="$PROJECT_DIR$/res/layout/settings_dialog.xml" />
-        <option value="$PROJECT_DIR$/src/com/manna/MannaApp/activity/SettingsActivity.java" />
-        <option value="$PROJECT_DIR$/res/color/white_gray.xml" />
-        <option value="$PROJECT_DIR$/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/res/layout/activity_settings.xml" />
-        <option value="$PROJECT_DIR$/res/drawable/white_gray.xml" />
-        <option value="$PROJECT_DIR$/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/src/com/manna/MannaApp/activity/HomeActivity.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/res/layout/activity_prayers.xml" />
         <option value="$PROJECT_DIR$/src/com/manna/MannaApp/model/Prayer.java" />
+        <option value="$PROJECT_DIR$/res/layout/activity_prayerview.xml" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/manna/MannaApp/activity/PrayerViewActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/manna/MannaApp/adapter/PrayerAdapter.java" />
         <option value="$PROJECT_DIR$/src/com/manna/MannaApp/activity/PrayersActivity.java" />
+        <option value="$PROJECT_DIR$/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/res/layout/temp.xml" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/res/layout/item_prayer.xml" />
+        <option value="$PROJECT_DIR$/res/layout/item_prayerview.xml" />
+        <option value="$PROJECT_DIR$/src/com/manna/MannaApp/adapter/ListAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/manna/MannaApp/list/ListItemType.java" />
+        <option value="$PROJECT_DIR$/src/com/manna/MannaApp/list/ListItem.java" />
+        <option value="$PROJECT_DIR$/src/com/manna/MannaApp/list/PrayerItem.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AndroidLintUseCompoundDrawables</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -301,7 +337,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -361,7 +396,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MannaApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Manna" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MannaApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="helper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MannaApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Manna" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MannaApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,6 +479,10 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -432,6 +515,20 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MannaApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Manna" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -439,6 +536,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -450,8 +548,9 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="preferences.externalResources" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/android-sdks/extras/android/support/v4/android-support-v4.jar!/" />
     <property name="AndroidLayoutSelectedEditor" value="text-editor" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -616,19 +715,18 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="b4fe0552-dc92-4fb9-94a0-95a7341b41ce" name="Default" comment="" />
       <created>1351478220064</created>
-      <timeSpent>3079000</timeSpent>
+      <timeSpent>50939000</timeSpent>
       <updated>1351478220064</updated>
     </task>
-    <option name="myTotallyTimeSpent" value="3079000" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2621212" sideWeight="0.6034188" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26139817" sideWeight="0.71965814" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -638,13 +736,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3965812" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2803419" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924242" sideWeight="0.6034188" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24924012" sideWeight="0.71965814" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.6700855" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -652,7 +751,6 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.6700855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -690,6 +788,8 @@
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -718,131 +818,140 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/values/themes.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_auth.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="12" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+        <state line="53" column="43" selection-start="2010" selection-end="2030" vertical-scroll-proportion="-7.48">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/helper/SharedPrefsHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="22" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/adapter/PrayerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="21" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/activity/AuthActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="62" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_auth.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="31" selection-start="455" selection-end="455" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/settings_dialog.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="18" selection-start="1550" selection-end="1550" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/white_gray.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="38" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="30" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_home.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="40" selection-end="381" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="60" column="62" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#1265#1709#0" expanded="true" />
+            <element signature="e#1694#1695#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/activity/HomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.0">
+        <state line="23" column="2" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_settings.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_prayers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.12">
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_prayerview.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="52" selection-start="788" selection-end="798" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/item_prayer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="30" selection-start="2041" selection-end="2045" vertical-scroll-proportion="-1.56">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/item_prayerview.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="34" selection-start="1780" selection-end="1780" vertical-scroll-proportion="-4.96">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/activity/PrayersActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="29" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#1014#1723#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/model/Prayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="57" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/model/Prayer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/list/ListItemType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+        <state line="3" column="11" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/activity/SettingsActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/list/ListItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
+        <state line="20" column="32" selection-start="312" selection-end="312" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_prayers.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/adapter/ListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="16" column="8" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/activity/PrayersActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/manna/MannaApp/list/PrayerItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="69" selection-start="1747" selection-end="1747" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/item_prayer.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="54" selection-start="167" selection-end="167" vertical-scroll-proportion="0.103658535">
-          <folding />
+        <state line="18" column="37" selection-start="416" selection-end="416" vertical-scroll-proportion="0.77272725">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

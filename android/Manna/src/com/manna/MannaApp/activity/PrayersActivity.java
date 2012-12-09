@@ -1,6 +1,7 @@
 package com.manna.MannaApp.activity;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
@@ -39,6 +40,7 @@ public class PrayersActivity extends Activity {
                 item.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
+                        startActivity(new Intent(getApplicationContext(), PrayerViewActivity.class));
                         count++;
                     }
                 });
@@ -49,7 +51,7 @@ public class PrayersActivity extends Activity {
 
     }
 
-    private void populatePrayers() {
+    private void drawPrayers() {
         for (Prayer prayer : prayers) {
             View item = getLayoutInflater().inflate(R.layout.item_prayer, prayerContainer, false);
             ((TextView) item.findViewById(R.id.prayer_text)).setText(prayer.getContent());
